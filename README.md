@@ -49,6 +49,8 @@ Every Animal has:
 - Carnivorous animals are meat-eaters, meaning that they only eat other animals in order to get their nutrition. 
 - Carnivores usually have sharp teeth and strong jaws, which they need to successfully catch and eat their prey. 
 
+### Examples of carnivores
+
 1. Lions
 1. Crocodiles
 1. Sharks
